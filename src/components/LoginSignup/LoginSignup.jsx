@@ -25,7 +25,7 @@ const LoginSignup = () => {
         </div>
       </div>
       <div className="forgot-password">
-        Forgot Password?<span>Click Here</span>
+        Forgot Password? <span>Click Here</span>
       </div>
       <div className="submit-container">
         <div className="submit">Sign Up</div>
